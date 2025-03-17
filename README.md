@@ -84,6 +84,25 @@ quiz-master/
 
 ---
 
+## Project Screenshots
+
+### Loading Screen
+![Loading Screen](assets/images/LoadingScreen.png)
+
+### Start Screen
+![Start Screen](assets/images/StartScreen.png)
+
+### Correct Answer Screen
+![Correct Answer Screen](assets/images/CorrectAnswerScreen.png)
+
+### Incorrect Answer Screen
+![Incorrect Answer Screen](assets/images/IncorrectAnswerScreen.png)
+
+### Result Screen
+![Result Screen](assets/images/ResultScreen.png)
+
+---
+
 ## 💻 Technologies Used
 - **Kotlin** – Primary programming language.
 - **Android Jetpack** – Modern Android components.
